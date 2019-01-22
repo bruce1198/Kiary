@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\dcf144b330bf9f7132afb733eebbd82c\jars\classes.jar
+FILE.hash=3429a370140670e9cce333e4ab113d887aa907f80a1188e3aa3dd94111d4b7f6
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-circularreveal-cardview-28.0.0-alpha1.aar\b1caef9958b6c190cbca7605fb225a12\jars\classes.jar
+FILE.hash=204494310c4f692b527e4eaaf9c63adefaf03c5f622559ca385a797cc8837920
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

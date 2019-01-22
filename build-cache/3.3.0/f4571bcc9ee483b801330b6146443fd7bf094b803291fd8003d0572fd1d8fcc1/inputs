@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-bottomsheet-28.0.0-alpha1.aar\aa7a6dd60cf2380c2771a87cc1aea859\jars\classes.jar
+FILE.hash=3ed1d30edabec4ba2c7e1bab99d0ef274d00485307c30250e91ed883a98bebff
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Kiary</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">no profile</string>
+    <string name="search_title">搜尋</string>
+    <string name="search_hint">搜尋Kiary&#8230;</string>
+    <string name="action_settings">設定</string>
+    <string name="calender">日曆</string>
+    <string name="hint">紀錄今天的好心情ㄅ!</string>
+    <string name="hurry">趕快來新增東東ㄅ!</string>
+    <string name="hint_remind">還不趕快新增提醒!</string>
+    <string name="edit_blank">青春不要留白嗚嗚嗚</string>
+    <string name="remind_blank">提醒點東西啦嗚嗚嗚</string>
+    <string name="type_diary">日記</string>
+    <string name="storage_permission_rationale_title">標題</string>
+    <string name="storage_permission_rationale_message">訊息</string>
+    <string name="storage_permission_denied_message">拒絕</string>
+    <string name="type_money">記帳</string>
+    <string name="type_work">提醒</string>
+    <string name="diary_picture">Picture</string>
+    <string name="last_update">上次更新:</string>
+    <string-array name="bookmark_titles">
+        <item>Google</item>
+        <item>Bing</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Google</item>
+        <item>Bing</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+        <item>Gmail</item>
+    </string-array>
+</resources>

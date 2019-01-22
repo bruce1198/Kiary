@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-stateful-28.0.0-alpha1.aar\10f916c0497111b5b3c6a61d550be700\jars\classes.jar
+FILE.hash=8b8996de04e29e9ffc6b6dd82e90e0298a8f5bacc4f17aff20211c2925c8fdbf
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-expandable-28.0.0-alpha1.aar\ba71f0c2962c8b2041df32ac0fc990c9\jars\classes.jar
+FILE.hash=66329d0edc82d33daf5a5ccbf0bd9f304518d79f797eb48438ccc98d43cef796
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

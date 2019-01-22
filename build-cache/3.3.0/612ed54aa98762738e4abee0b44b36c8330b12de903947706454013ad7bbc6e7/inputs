@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclertablayout-1.5.0.aar\dc5e897a76127e8c8f1926fc6650eba8\jars\classes.jar
+FILE.hash=07026c92d635820794185cca25ce161c863d9fc944e7515aa2233be6ab0d21ba
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

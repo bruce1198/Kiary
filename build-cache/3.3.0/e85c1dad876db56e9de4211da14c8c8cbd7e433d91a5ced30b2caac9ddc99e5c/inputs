@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-animation-28.0.0-alpha1.aar\3069965f72650d1d7f3acb9aeed8023c\jars\classes.jar
+FILE.hash=f73c220d8afc0e545924c2af6dfcc0c8b4824df6e65a13d5d156494f169a1d4d
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

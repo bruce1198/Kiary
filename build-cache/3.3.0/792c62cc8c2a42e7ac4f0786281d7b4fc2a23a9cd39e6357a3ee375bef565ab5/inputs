@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\jetified-floatingactionbutton-1.10.1.aar\1bbd8783ba9534cb4e86b424d6c8a582\jars\classes.jar
+FILE.hash=f3d9999814bccee8a3c7a88725ed6f3d1f941a4de3379dc4e81a7bdc90c97934
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

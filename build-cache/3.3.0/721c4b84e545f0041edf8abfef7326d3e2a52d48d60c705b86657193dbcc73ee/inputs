@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-chip-28.0.0-alpha1.aar\c188920b418aa3432eb96d9d8030a9fc\jars\classes.jar
+FILE.hash=2409f287e2a3ba2d9adf083b88cef6cc83013daaddb408e2464ff9d08d28ef63
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

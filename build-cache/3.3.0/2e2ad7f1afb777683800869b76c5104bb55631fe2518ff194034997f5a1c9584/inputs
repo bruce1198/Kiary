@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-textfield-28.0.0-alpha1.aar\2fd5b33fa0417df380cb30577a9db541\jars\classes.jar
+FILE.hash=4c0265f6930bd5bd45a0cc324efbbe85fa58800ea5a04c8f138f95e702c2c07b
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

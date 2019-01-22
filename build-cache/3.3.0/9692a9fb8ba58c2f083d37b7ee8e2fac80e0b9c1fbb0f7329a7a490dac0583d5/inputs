@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-circularreveal-28.0.0-alpha1.aar\81cccac4d766063dff577e250f4505df\jars\classes.jar
+FILE.hash=11dfb4fdebb5db77374b6a03f920af87c10e73e8b29998a4f20349a26d2c7a9e
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-color-28.0.0-alpha1.aar\7e42c2fdab73ac87f89ad7731be6a986\jars\classes.jar
+FILE.hash=a9d95d00e4ebf68a99d422692660e7672a3ce78ed353add515e0f2b8226dcb51
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

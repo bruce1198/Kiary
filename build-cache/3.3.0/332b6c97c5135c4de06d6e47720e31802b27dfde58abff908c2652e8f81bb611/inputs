@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-button-28.0.0-alpha1.aar\9c511911f6c3cf9e8ea697761bdb3e2a\jars\classes.jar
+FILE.hash=f8bb59cc9784c71fd83eb69cdeb17fb803c3c7d1d20317435c046ed4e25fe61b
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

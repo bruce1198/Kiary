@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\modules-2\files-2.1\androidx.arch.core\core-common\2.0.0\bb21b9a11761451b51624ac428d1f1bb5deeac38\core-common-2.0.0.jar
+FILE.hash=4b80b337779b526e64b0ee0ca9e0df43b808344d145f8e9b1c42a134dac57ad8
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

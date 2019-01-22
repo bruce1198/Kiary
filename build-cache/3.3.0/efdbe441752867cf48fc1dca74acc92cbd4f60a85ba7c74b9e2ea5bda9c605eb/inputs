@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\53fb30cab74ca79d5b403589d29970d4\jars\classes.jar
+FILE.hash=14f7429cff9f2f50421a36b237a1de35d8a2c8deffcbe1e0163c6e51a2defe56
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

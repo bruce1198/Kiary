@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-drawable-28.0.0-alpha1.aar\e61558dc541287b6282764737ea4aa7b\jars\classes.jar
+FILE.hash=5cb12696438bfb346d62896bd529a69cc5a90a8f105477ad35588efeefb5455b
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

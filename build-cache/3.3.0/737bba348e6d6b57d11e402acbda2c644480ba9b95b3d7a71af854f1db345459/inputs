@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\bf23aa443bd2bc13c9cfef49fcd4d8c3\jars\classes.jar
+FILE.hash=fef1d927f66709190194be794021238af265dc41bc1721cd04d85f2556e5a89c
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true

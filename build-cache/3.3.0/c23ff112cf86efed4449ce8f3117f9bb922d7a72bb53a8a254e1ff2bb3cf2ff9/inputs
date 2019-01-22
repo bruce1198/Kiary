@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\user\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\94f13ccc6e8fce311b5c9f20af866a26\jars\classes.jar
+FILE.hash=041d65e8566445b97a2ae741227ce05ab6783c783a83e6fb173d8abc9eabd55b
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=26
+IS_DEBUGGABLE=true
